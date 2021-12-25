@@ -1,6 +1,7 @@
-### Hey there, I'm uisng GitHub 👋
+#aadev151
+## Hey there, I'm using GitHub 👋
 
-![My Logo](https://aadev151.github.io/my_logo.png)
+![My Logo](https://aadev151.github.io/my_logo.png =200x239)
 
 <!--
 **aadev151/aadev151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
