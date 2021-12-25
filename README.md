@@ -1,6 +1,7 @@
 # aadev151
 ## Hey there, I'm using GitHub 👋
 
+<img src="https://aadev151.github.io/my_logo.png" alt="My Logo" width="200"/>
 ![My Logo](https://aadev151.github.io/my_logo.png =200x239)
 
 <!--
