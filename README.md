@@ -8,7 +8,7 @@
 
 🌱 I enjoy everything coding-related
 
-🌱 This GitHub page consists of my side and school projects starting from 2020
+🌱 This GitHub page consists of my side and school projects starting from 2019
 
 🌱 You can reach out to me via [LinkedIn](https://linkedin.com/in/aleksandr-anisimov/) or [email](mailto:anisima@rose-hulman.edu)
 
